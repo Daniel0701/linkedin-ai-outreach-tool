@@ -23,7 +23,7 @@ In your cmd prompt, run:
     **pip install pdfplumber**  
 to install the needed package
 You will also need the Google Bard API Package
-In your cmd prompt, run:
-    **pip install google-generativeai**
-You will also need an API Key to use their AI responses. You can get this for free by following the instructions in this link:
+In your cmd prompt, run:  
+    **pip install google-generativeai**  
+You will also need an API Key to use their AI responses. You can get this for free by following the instructions in this link:  
 https://ai.google.dev/tutorials/python_quickstart
